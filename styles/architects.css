@@ -116,6 +116,34 @@ margin-bottom: 50px;
 #quick-list{
   font-weight: 500;
 }
+
+/* features section style */
+.features{
+  gap: 140px;
+}
+#features-section-title{
+border-left: 5px solid #FF900E;
+padding-left: 20px;
+}
+.frature-card{
+  padding: 30px;
+  box-shadow: 0 4px 30px  rgba(o, o, 0, 0.06);
+  margin-bottom: 20px;
+}
+
+.feature-card, .feature-tilte{
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 0px;
+ margin-bottom: opx;
+}
+
+
+
+
+
+
+
 /* facts style */
 
 .fact{
