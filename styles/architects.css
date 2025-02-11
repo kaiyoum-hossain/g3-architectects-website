@@ -205,6 +205,21 @@ padding-left: 20px;
   filter: grayscale(100%);
 }
 
+/* pragraph style */
+.page{
+  margin-top: 70px;
+}
+.page-design{
+  width: 1440px;
+  height: 50px;
+margin: 0 auto;
+  
+}
+.pragraph{
+  margin-top: 40px;
+  justify-items: center;
+  text-align: center;
+}
 
 /* responsive media query */
 
